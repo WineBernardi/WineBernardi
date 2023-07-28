@@ -1,4 +1,4 @@
-<h1 align="left">Olá Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Sou a Wine, futura programadora!💙😃</h1>
+<h1 align="left">Olá Pessoal !!!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Sou a Wine, futura programadora!💙😃</h1>
 <p align="left"> <img width="12%" src="https://komarev.com/ghpvc/?username=Winebernardi&color=blue" alt="Profile views" /> </p>
  <div align="center"> <img align="center" alt="Wine-pic"  width="190"  src="https://cdn.discordapp.com/attachments/1010772123465302130/1010787609590636584/giphy.gif">
 </div><br>
